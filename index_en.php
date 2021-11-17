@@ -134,7 +134,7 @@
                                     <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+998 99 944 40
                                             29</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Khiva ,
-                                            UZB</span></li>
+                                            </span></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
@@ -142,7 +142,7 @@
                                     <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Junior</span>
                                     </li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Mail:</strong>
                                         <span>Makhmudbe29@gmail.com</span>
                                     </li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong>

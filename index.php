@@ -58,16 +58,16 @@
 
         <nav id="navbar" class="navbar nav-menu">
             <ul>
-                <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a>
+                <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Asosiy</span></a>
                 </li>
-                <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
-                <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a>
+                <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Malumot</span></a></li>
+                <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Websaytlarim</span></a>
                 </li>
                 <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i>
                         <span>Portfolio</span></a></li>
-                <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a>
+                <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Xizmat ko'rsatish'</span></a>
                 </li>
-                <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a>
+                <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Aloqa</span></a>
                 </li>
                 <script src="https://kit.fontawesome.com/62ad82fcd7.js" crossorigin="anonymous"></script>
             </ul>
@@ -81,7 +81,7 @@
     <section id="hero" class="d-flex flex-column justify-content-center">
         <div class="container" data-aos="zoom-in" data-aos-delay="100">
             <h1>Makhmudbek </h1>
-            <p>I'm <span class="typed" data-typed-items="Developer, Designer, Freelancer, "></span></p>
+            <p>I'm <span class="typed" data-typed-items="Dasturchi, Dizayner, Freelancer, "></span></p>
             <div class="social-links">
                 <a href="https://t.me/Makhmudbek29" class="Telegram"><i class="fab fa-telegram-plane"></i></a>
                 <a href="https://www.instagram.com/makhmudbek.uz" class="instagram"><i class="bx bxl-instagram"></i></a>
@@ -103,12 +103,12 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
-                    <h2>About</h2>
-                    <p>“Your work is going to fill a large part of your life, and the only way to be truly satisfied is
-                        to do what you believe is great work. And the only way to do great work is to love what you do.
-                        If you haven’t found it yet, keep looking.
-                        Don’t settle. As with all matters of the heart, you’ll know when you find it.” <i
-                            style="float: right;"><b>Steve Jobs</i></b>
+                    <h2>Malumot</h2>
+                    <p>"Sizning ishingiz hayotingizning katta qismini to'ldiradi va chinakam qoniqishning yagona yo'li - bu
+                         o'zingiz ishongan narsani qilish ajoyib ish. Va buyuk ish qilishning yagona yo'li - bu qilayotgan ishingizni sevishdir.
+                         Agar siz hali topmagan bo'lsangiz, qidirishda davom eting.
+                         Taslim bo'lmang'. Yurakning barcha masalalarida bo'lgani kabi, uni qachon topsangiz, bilib olasiz." 
+                         <i style="float: right;"><b>Steve Jobs</i></b>
                     </p>
                 </div>
 
@@ -117,32 +117,28 @@
                         <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8 pt-4 pt-lg-0 content">
-                        <h3> Web Developer.</h3>
+                        <h3> Web Dasturchi.</h3>
                         <p class="fst-italic">
-                            My name is Makhmudbek. My surname is Jumaniyazov. I was born in Uzbekistan. I live in the
-                            small city of Khiva in the Uzbekistan Republic. My address is Zargarlar 60, Itchan-Kala
-                            Street
+                           Mening ismim Mahmudbek. Mening familiyam Jumaniyozov. Men O‘zbekistonda tug‘ilganman va hozirda yashayman O'zbekiston Respublikasi Khorezm viloyat Xiva shaxrida yashayman'
                         </p>
                         <div class="row">
                             <div class="col-lg-6">
                                 <ul>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>29
-                                            September 2000</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Tug'lgan sana':</strong> <span>29
+                                            Sentyabr 2000</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong>
                                         <span>www.Makhmudbek.uz</span>
                                     </li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+998 99 944 40
-                                            29</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Khiva ,
-                                            UZB</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Telefon No'mer':</strong> <span>+998 999 444 029</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Yashash joy:</strong> <span>Khiva </span></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
                                 <ul>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Junior</span>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Yosh:</strong> <span>21</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Daraja:</strong> <span>Junior</span>
                                     </li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Mail:</strong>
                                         <span>Makhmudbe29@gmail.com</span>
                                     </li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong>
