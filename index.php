@@ -81,7 +81,7 @@
     <section id="hero" class="d-flex flex-column justify-content-center">
         <div class="container" data-aos="zoom-in" data-aos-delay="100">
             <h1>Makhmudbek </h1>
-            <p>I'm <span class="typed" data-typed-items="Dasturchi, Dizayner, Freelancer, "></span></p>
+            <p>Men <span class="typed" data-typed-items="Dasturchi, Dizayner, Freelancer, "></span></p>
             <div class="social-links">
                 <a href="https://t.me/Makhmudbek29" class="Telegram"><i class="fab fa-telegram-plane"></i></a>
                 <a href="https://www.instagram.com/makhmudbek.uz" class="instagram"><i class="bx bxl-instagram"></i></a>
@@ -141,16 +141,15 @@
                                     <li><i class="bi bi-chevron-right"></i> <strong>Mail:</strong>
                                         <span>Makhmudbe29@gmail.com</span>
                                     </li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong>
-                                        <span>Available</span>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>O'nlayin ish':</strong>
+                                        <span>Mavjud</span>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <p>I spend a lot of time on it reading books, doing programming, etc. I have a wide circle of
-                            interests. I'm very sociable, so I get on very well with people. I have many friends. We
-                            spend a lot of time together, speaking about programming
-                            and new technology, discussing our problems.
+                        <p>Men kitob o'qish, dasturlash va hokazolarga ko'p vaqt ajrataman. Menda keng dunyo qarash bor . Men juda samimiyman, shuning uchun odamlar bilan juda yaxshi munosabatda bo'laman. Mening ko'p do'stlarim bor (dasturchilar orasida). Biz
+                             dasturlash haqida gaplashib, birga ko'p vaqt o'tkazing
+                             va yangi texnologiyalar, muammolarimizni muhokama qilamiz.
                         </p>
                     </div>
                 </div>
