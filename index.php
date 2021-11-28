@@ -56,16 +56,18 @@
     <!-- ======= Header ======= -->
     <header id="header" class="d-flex flex-column justify-content-center">
 
-        <nav id="navbar" class="navbar nav-menu">
+        <nav id="navbar" class="navbar nav-menu test_one_">
             <ul>
                 <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Asosiy</span></a>
                 </li>
                 <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Malumot</span></a></li>
-                <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Websaytlarim</span></a>
+                <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i>
+                        <span>Websaytlarim</span></a>
                 </li>
                 <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i>
                         <span>Portfolio</span></a></li>
-                <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Xizmat ko'rsatish'</span></a>
+                <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Xizmat
+                            ko'rsatish'</span></a>
                 </li>
                 <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Aloqa</span></a>
                 </li>
@@ -85,8 +87,8 @@
             <div class="social-links">
                 <a href="https://t.me/Makhmudbek29" class="Telegram"><i class="fab fa-telegram-plane"></i></a>
                 <a href="https://www.instagram.com/makhmudbek.uz" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100074656518811" class="facebook"><i
-                        class="bx bxl-facebook"></i></a>
+                <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100074656518811"
+                    class="facebook"><i class="bx bxl-facebook"></i></a>
                 <a href="https://twitter.com/Makhmudbek29" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="https://www.linkedin.com/in/mahmud-jumaniyazov-1b6459204/" class="linkedin"><i
                         class="bx bxl-linkedin"></i></a>
@@ -104,11 +106,14 @@
 
                 <div class="section-title">
                     <h2>Malumot</h2>
-                    <p>"Sizning ishingiz hayotingizning katta qismini to'ldiradi va chinakam qoniqishning yagona yo'li - bu
-                         o'zingiz ishongan narsani qilish ajoyib ish. Va buyuk ish qilishning yagona yo'li - bu qilayotgan ishingizni sevishdir.
-                         Agar siz hali topmagan bo'lsangiz, qidirishda davom eting.
-                         Taslim bo'lmang'. Yurakning barcha masalalarida bo'lgani kabi, uni qachon topsangiz, bilib olasiz." 
-                         <i style="float: right;"><b>Steve Jobs</i></b>
+                    <p>"Sizning ishingiz hayotingizning katta qismini to'ldiradi va chinakam qoniqishning yagona yo'li -
+                        bu
+                        o'zingiz ishongan narsani qilish ajoyib ish. Va buyuk ish qilishning yagona yo'li - bu
+                        qilayotgan ishingizni sevishdir.
+                        Agar siz hali topmagan bo'lsangiz, qidirishda davom eting.
+                        Taslim bo'lmang'. Yurakning barcha masalalarida bo'lgani kabi, uni qachon topsangiz, bilib
+                        olasiz."
+                        <i style="float: right;"><b>Steve Jobs</i></b>
                     </p>
                 </div>
 
@@ -119,7 +124,8 @@
                     <div class="col-lg-8 pt-4 pt-lg-0 content">
                         <h3> Web Dasturchi.</h3>
                         <p class="fst-italic">
-                           Mening ismim Mahmudbek. Mening familiyam Jumaniyozov. Men O‘zbekistonda tug‘ilganman va hozirda yashayman O'zbekiston Respublikasi Khorezm viloyat Xiva shaxrida yashayman'
+                            Mening ismim Mahmudbek. Mening familiyam Jumaniyozov. Men O‘zbekistonda tug‘ilganman va
+                            hozirda yashayman O'zbekiston Respublikasi Khorezm viloyat Xiva shaxrida yashayman'
                         </p>
                         <div class="row">
                             <div class="col-lg-6">
@@ -129,8 +135,10 @@
                                     <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong>
                                         <span>www.Makhmudbek.uz</span>
                                     </li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Telefon No'mer':</strong> <span>+998 999 444 029</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Yashash joy:</strong> <span>Khiva </span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Telefon No'mer':</strong> <span>+998
+                                            999 444 029</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Yashash joy:</strong> <span>Khiva
+                                        </span></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
@@ -147,9 +155,11 @@
                                 </ul>
                             </div>
                         </div>
-                        <p>Men kitob o'qish, dasturlash va hokazolarga ko'p vaqt ajrataman. Menda keng dunyo qarash bor . Men juda samimiyman, shuning uchun odamlar bilan juda yaxshi munosabatda bo'laman. Mening ko'p do'stlarim bor (dasturchilar orasida). Biz
-                             dasturlash haqida gaplashib, birga ko'p vaqt o'tkazing
-                             va yangi texnologiyalar, muammolarimizni muhokama qilamiz.
+                        <p>Men kitob o'qish, dasturlash va hokazolarga ko'p vaqt ajrataman. Menda keng dunyo qarash bor
+                            . Men juda samimiyman, shuning uchun odamlar bilan juda yaxshi munosabatda bo'laman. Mening
+                            ko'p do'stlarim bor (dasturchilar orasida). Biz
+                            dasturlash haqida gaplashib, birga ko'p vaqt o'tkazing
+                            va yangi texnologiyalar, muammolarimizni muhokama qilamiz.
                         </p>
                     </div>
                 </div>
@@ -620,8 +630,8 @@
             <div class="social-links">
                 <a href="https://t.me/Makhmudbek29" class="Telegram"><i class="fab fa-telegram-plane"></i></a>
                 <a href="https://www.instagram.com/makhmudbek.uz" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100074656518811" class="facebook"><i
-                        class="bx bxl-facebook"></i></a>
+                <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100074656518811"
+                    class="facebook"><i class="bx bxl-facebook"></i></a>
                 <a href="https://twitter.com/Makhmudbek29" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="https://www.linkedin.com/in/mahmud-jumaniyazov-1b6459204/" class="linkedin"><i
                         class="bx bxl-linkedin"></i></a>
