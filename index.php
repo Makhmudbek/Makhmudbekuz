@@ -212,7 +212,7 @@
                             <i class="bi bi-award"></i>
                             <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1"
                                 class="purecounter"></span>
-                            <p>Sertificatlar</p>
+                            <p>Sertifikatlar</p>
                         </div>
                     </div>
 
@@ -228,10 +228,7 @@
 
                 <div class="section-title">
                     <h2>Daraja</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi
-                        quidem hic quas.</p>
+                    <p>Men o'rgangan va hozirgi kunda yana o'rganib kelayotgan dasturlash tillari </p>
                 </div>
 
                 <div class="row skills-content">
@@ -303,9 +300,9 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
-                    <h2>Resume</h2>
-                    <p>A summary of all the things I’ve done in my life. Places where I studied, learned, gained
-                        experience</p>
+                    <h2>To'liq malumot</h2>
+                    <p>Hayotimda qilgan barcha ishlarimning qisqacha mazmuni. Men o'qigan, o'rgangan, qo'lga kiritgan bilimlarim va
+                         tajribalarim</p>
                 </div>
 
                 <div class="row">
@@ -313,9 +310,8 @@
                         <h3 class="resume-title">Sumary</h3>
                         <div class="resume-item pb-0">
                             <h4>Makhmudbek Jumaniyazov</h4>
-                            <p><em>Innovative and deadline-driven Web-Developer with 3+ years of experience designing
-                                    and developing user-centered digital/print marketing material from initial concept
-                                    to final, polished deliverable.</em></p>
+                            <p><em>Web dasturlash bo'yicha 3+ yillik tajribaga ega bo'lgan innovatsion va muddatga asoslangan veb-dasturchi
+                                     .</em></p>
                             <ul>
                                 <li>Khorezm Urganch, UZB</li>
                                 <li>+998 99 944 40 29</li>
@@ -323,36 +319,34 @@
                             </ul>
                         </div>
 
-                        <h3 class="resume-title">Education</h3>
+                        <h3 class="resume-title">Talim</h3>
                         <div class="resume-item">
-                            <h4>My college</h4>
+                            <h4>Mening college</h4>
                             <h5>2015 - 2018</h5>
-                            <p><em>Vocational College of Information Technology</em></p>
-                            <p>In this college I got a degree in algorithms and he has my good teachers</p>
+                            <p><em>Axborot texnologiyalari kasb-hunar kolleji</em></p>
+                            <p>Ushbu kollejda men algoritmlar bo'yicha diplom oldim va unda mening yaxshi o'qituvchilarim bor</p>
                         </div>
                         <div class="resume-item">
-                            <h4>Bachelor of Web Developer</h4>
+                            <h4>Veb dasturchi bakalavri</h4>
                             <h5>2018 - 2022</h5>
-                            <p><em>Tashkent University of Information Technologies, UZB</em></p>
-                            <p>I am well versed in Web programming and cyber security, Operating systems, Algorithms,
-                                Database sciences at the University</p>
+                            <p><em>Toshkent axborot texnologiyalar Universiteti</em></p>
+                            <p>Men Universitetda ma'lumotlar bazasi  veb-dasturlash va kiberxavfsizlik, Operatsion tizimlar, Algoritmlar,
+                                 fanlarini o'rgandim</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <h3 class="resume-title">Professional Experience</h3>
                         <div class="resume-item">
-                            <h4>Junior frontend Developer</h4>
+                            <h4>Junior web dasturchi</h4>
                             <h5>2021 - Present</h5>
-                            <p><em>Mustafo Software, Urganch, UZB </em></p>
+                            <p><em>Mustafo Software,</em></p>
                             <ul>
-                                <li>Lead in the web sites, development, and implementation of the web, layout, and
-                                    production communication materials</li>
-                                <li>Delegate tasks to the 7 members of the web team and provide counsel on all aspects
-                                    of the project. </li>
-                                <li>Supervise the assessment of all graphic materials in order to ensure quality and
-                                    accuracy of the design</li>
-                                <li>Oversee the efficient use of production project budgets ranging from $300 - $5,000
-                                </li>
+                                <li>Veb-saytlar, veb-saytlarni ishlab chiqish va amalga oshirishda etakchilik, dizayn va
+                                     ishlab chiqarish aloqa materiallar bilan shug'ullandim</li>
+                                <li>Veb-guruhning 7 a'zo bo'lib ishladik topshirqlar va barcha jihatlar bo'yicha maslahatlashib loyihalarni amalga oshirdik. </li>
+                                <li>Sifatini ta'minlash uchun barcha grafik materiallar h va
+                                     dizaynning aniqligi boyicha ishladik </li>
+                                <li>300 dan 5 000 dollargacha bo'lgan ishlab chiqarish loyihalari ishlandi                                </li>
                             </ul>
                         </div>
 
@@ -369,9 +363,8 @@
 
                 <div class="section-title">
                     <h2>Portfolio</h2>
-                    <p>You can see here the designs I made, the pictures of the Web sites. You can only see pictures
-                        here if you have new web sites ide, kiss me web sites that need to replace the previous website
-                        Contact me immediately.</p>
+                    <p>Bu yerda men qilgan dizaynlar, veb-saytlarni ko'rishingiz mumkin. Siz faqat rasmlarni emas balki web saytlarga kirib ko'rishinggiz mumkin
+                         </p>
                 </div>
 
 
@@ -435,7 +428,7 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
-                    <h2>Services</h2>
+                    <h2>Hizmat ko'rsatish</h2>
                     <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
                         sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
                         ea. Quia fugiat sit in iste officiis commodi
