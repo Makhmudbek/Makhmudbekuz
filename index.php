@@ -173,8 +173,8 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
-                    <h2>Facts</h2>
-                    <p>my work on web programming and their summary</p>
+                    <h2>Aniq faktlar </h2>
+                    <p>Ish davomida to'plaga tajribalarim</p>
                 </div>
 
                 <div class="row">
@@ -184,7 +184,7 @@
                             <i class="bi bi-emoji-smile"></i>
                             <span data-purecounter-start="0" data-purecounter-end="56" data-purecounter-duration="1"
                                 class="purecounter"></span>
-                            <p>Happy Clients</p>
+                            <p>Bahtli mijozlar</p>
                         </div>
                     </div>
 
@@ -193,7 +193,7 @@
                             <i class="bi bi-journal-richtext"></i>
                             <span data-purecounter-start="0" data-purecounter-end="7" data-purecounter-duration="1"
                                 class="purecounter"></span>
-                            <p>Projects</p>
+                            <p>Proyektlar</p>
                         </div>
                     </div>
 
@@ -202,16 +202,17 @@
                             <i class="bi bi-headset"></i>
                             <span data-purecounter-start="0" data-purecounter-end="623" data-purecounter-duration="1"
                                 class="purecounter"></span>
-                            <p>Hours Of Support</p>
+                            <p>Qo'llab quvvatlag mijozlar</p>
                         </div>
                     </div>
+                    
 
                     <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
                         <div class="count-box">
                             <i class="bi bi-award"></i>
                             <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1"
                                 class="purecounter"></span>
-                            <p>Awards</p>
+                            <p>Sertificatlar</p>
                         </div>
                     </div>
 
@@ -226,7 +227,7 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
-                    <h2>Skills</h2>
+                    <h2>Daraja</h2>
                     <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
                         sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
                         ea. Quia fugiat sit in iste officiis commodi
