@@ -205,7 +205,7 @@
                             <p>Qo'llab quvvatlag mijozlar</p>
                         </div>
                     </div>
-                    
+
 
                     <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
                         <div class="count-box">
@@ -301,8 +301,9 @@
 
                 <div class="section-title">
                     <h2>To'liq malumot</h2>
-                    <p>Hayotimda qilgan barcha ishlarimning qisqacha mazmuni. Men o'qigan, o'rgangan, qo'lga kiritgan bilimlarim va
-                         tajribalarim</p>
+                    <p>Hayotimda qilgan barcha ishlarimning qisqacha mazmuni. Men o'qigan, o'rgangan, qo'lga kiritgan
+                        bilimlarim va
+                        tajribalarim</p>
                 </div>
 
                 <div class="row">
@@ -310,8 +311,9 @@
                         <h3 class="resume-title">Sumary</h3>
                         <div class="resume-item pb-0">
                             <h4>Makhmudbek Jumaniyazov</h4>
-                            <p><em>Web dasturlash bo'yicha 3+ yillik tajribaga ega bo'lgan innovatsion va muddatga asoslangan veb-dasturchi
-                                     .</em></p>
+                            <p><em>Web dasturlash bo'yicha 3+ yillik tajribaga ega bo'lgan innovatsion va muddatga
+                                    asoslangan veb-dasturchi
+                                    .</em></p>
                             <ul>
                                 <li>Khorezm Urganch, UZB</li>
                                 <li>+998 99 944 40 29</li>
@@ -324,14 +326,16 @@
                             <h4>Mening college</h4>
                             <h5>2015 - 2018</h5>
                             <p><em>Axborot texnologiyalari kasb-hunar kolleji</em></p>
-                            <p>Ushbu kollejda men algoritmlar bo'yicha diplom oldim va unda mening yaxshi o'qituvchilarim bor</p>
+                            <p>Ushbu kollejda men algoritmlar bo'yicha diplom oldim va unda mening yaxshi
+                                o'qituvchilarim bor</p>
                         </div>
                         <div class="resume-item">
                             <h4>Veb dasturchi bakalavri</h4>
                             <h5>2018 - 2022</h5>
                             <p><em>Toshkent axborot texnologiyalar Universiteti</em></p>
-                            <p>Men Universitetda ma'lumotlar bazasi  veb-dasturlash va kiberxavfsizlik, Operatsion tizimlar, Algoritmlar,
-                                 fanlarini o'rgandim</p>
+                            <p>Men Universitetda ma'lumotlar bazasi veb-dasturlash va kiberxavfsizlik, Operatsion
+                                tizimlar, Algoritmlar,
+                                fanlarini o'rgandim</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -342,11 +346,12 @@
                             <p><em>Mustafo Software,</em></p>
                             <ul>
                                 <li>Veb-saytlar, veb-saytlarni ishlab chiqish va amalga oshirishda etakchilik, dizayn va
-                                     ishlab chiqarish aloqa materiallar bilan shug'ullandim</li>
-                                <li>Veb-guruhning 7 a'zo bo'lib ishladik topshirqlar va barcha jihatlar bo'yicha maslahatlashib loyihalarni amalga oshirdik. </li>
+                                    ishlab chiqarish aloqa materiallar bilan shug'ullandim</li>
+                                <li>Veb-guruhning 7 a'zo bo'lib ishladik topshirqlar va barcha jihatlar bo'yicha
+                                    maslahatlashib loyihalarni amalga oshirdik. </li>
                                 <li>Sifatini ta'minlash uchun barcha grafik materiallar h va
-                                     dizaynning aniqligi boyicha ishladik </li>
-                                <li>300 dan 5 000 dollargacha bo'lgan ishlab chiqarish loyihalari ishlandi                                </li>
+                                    dizaynning aniqligi boyicha ishladik </li>
+                                <li>300 dan 5 000 dollargacha bo'lgan ishlab chiqarish loyihalari ishlandi </li>
                             </ul>
                         </div>
 
@@ -363,8 +368,9 @@
 
                 <div class="section-title">
                     <h2>Portfolio</h2>
-                    <p>Bu yerda men qilgan dizaynlar, veb-saytlarni ko'rishingiz mumkin. Siz faqat rasmlarni emas balki web saytlarga kirib ko'rishinggiz mumkin
-                         </p>
+                    <p>Bu yerda men qilgan dizaynlar, veb-saytlarni ko'rishingiz mumkin. Siz faqat rasmlarni emas balki
+                        web saytlarga kirib ko'rishinggiz mumkin
+                    </p>
                 </div>
 
 
@@ -429,10 +435,7 @@
 
                 <div class="section-title">
                     <h2>Hizmat ko'rsatish</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi
-                        quidem hic quas.</p>
+                    <p>Biz sizga turli hil hizmat ko'rsatish servislarimiz bor </p>
                 </div>
 
                 <div class="row">
@@ -447,8 +450,8 @@
                                 </svg>
                                 <i class="bx bxl-dribbble"></i>
                             </div>
-                            <h4><a href="">Create web-site</a></h4>
-                            <p>I will create a web site for you quickly and easily</p>
+                            <h4><a href="">Web sayt yaratish</a></h4>
+                            <p>tez va zamonaviy web saytlar</p>
                         </div>
                     </div>
 
@@ -463,8 +466,8 @@
                                 </svg>
                                 <i class="bx bx-file"></i>
                             </div>
-                            <h4><a href="">Edit your website and add updates</a></h4>
-                            <p>This allows you to add new information, new designs, etc. to your website.</p>
+                            <h4><a href="">Web saytga o'zgartirishlar kiritish </a></h4>
+                            <p>Yangi malumotlar kiritish, yangi dizayn qo'shish, va boshqalar. </p>
                         </div>
                     </div>
 
@@ -479,8 +482,8 @@
                                 </svg>
                                 <i class="bx bx-tachometer"></i>
                             </div>
-                            <h4><a href="">Debugging</a></h4>
-                            <p>Fix any bugs on your website</p>
+                            <h4><a href="">Hato tuzatish</a></h4>
+                            <p>Web saytinggizdagi hatolarni tuzatish</p>
                         </div>
                     </div>
 
@@ -496,8 +499,8 @@
                                 </svg>
                                 <i class="bx bx-layer"></i>
                             </div>
-                            <h4><a href="">Buy hostings and Domens</a></h4>
-                            <p>I will buy reliable domains and hosting for you at cheap prices</p>
+                            <h4><a href="">Hosting va domen sotib olish </a></h4>
+                            <p>Arzon va zamonaviy hosting domenlarni sizga olib berish</p>
                         </div>
                     </div>
 
@@ -512,8 +515,8 @@
                                 </svg>
                                 <i class="bx bx-slideshow"></i>
                             </div>
-                            <h4><a href="">Teaching</a></h4>
-                            <p>I can teach you web programming online</p>
+                            <h4><a href="">O'qub qurs</a></h4>
+                            <p>Oline tarzda dasturlashdan dars o'tish</p>
                         </div>
                     </div>
 
@@ -528,8 +531,8 @@
                                 </svg>
                                 <i class="bx bx-arch"></i>
                             </div>
-                            <h4><a href="">Conversation</a></h4>
-                            <p>We can discuss your ideas from the Programming side</p>
+                            <h4><a href="">Suxbat</a></h4>
+                            <p>Sizning g'oanggizni dasturchi tomonidan muhokama qilinishi</p>
                         </div>
                     </div>
 
@@ -554,7 +557,7 @@
                         <div class="info">
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
-                                <h4>Location:</h4>
+                                <h4>Manzil:</h4>
                                 <p>Zargarlar 60, Khiva, Uzbekistan </p>
                             </div>
 
@@ -566,7 +569,7 @@
 
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
-                                <h4>Call:</h4>
+                                <h4>Tel:</h4>
                                 <p>+998 99 944 40 29</p>
                             </div>
 
@@ -579,20 +582,20 @@
                         <form action="feedback.php" method="post" role="form" class="php-email-form">
                             <div class="row">
                                 <div class="col-md-6 form-group">
-                                    <input type="text" name="name" class="form-control" id="name"
-                                        placeholder="Your Name" required>
+                                    <input type="text" name="name" class="form-control" id="name" placeholder="Ism"
+                                        required>
                                 </div>
                                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <input type="email" class="form-control" name="email" id="email"
-                                        placeholder="Your Email" required>
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Email"
+                                        required>
                                 </div>
                             </div>
                             <div class="form-group mt-3">
-                                <input type="text" class="form-control" name="subject" id="subject"
-                                    placeholder="Subject" required>
+                                <input type="text" class="form-control" name="subject" id="subject" placeholder="Mavzu"
+                                    required>
                             </div>
                             <div class="form-group mt-3">
-                                <textarea class="form-control" name="message" rows="5" placeholder="Message"
+                                <textarea class="form-control" name="message" rows="5" placeholder="Xabar"
                                     required></textarea>
                             </div>
                             <div class="my-3">
@@ -600,9 +603,9 @@
                                 <div class="error-message">
 
                                 </div>
-                                <div class="sent-message">Your message has been sent. Thank you!</div>
+                                <div class="sent-message">Habaringgiz jo'natildi . Rahmat!</div>
                             </div>
-                            <div class="text-center"><button type="submit">Send Message</button></div>
+                            <div class="text-center"><button type="submit">Habarni jo'natish</button></div>
                         </form>
 
                     </div>
@@ -620,7 +623,7 @@
     <footer id="footer">
         <div class="container">
             <h3>Makhmubdek Jumaniyazov</h3>
-            <p>Thank you for visiting my website</p>
+            <p>Web saytimga tashrifinggizdan hursandmiz</p>
             <div class="social-links">
                 <a href="https://t.me/Makhmudbek29" class="Telegram"><i class="fab fa-telegram-plane"></i></a>
                 <a href="https://www.instagram.com/makhmudbek.uz" class="instagram"><i class="bx bxl-instagram"></i></a>
