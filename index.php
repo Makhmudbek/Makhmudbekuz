@@ -420,6 +420,25 @@
                         </div>
                     </div>
 
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <div class="portfolio-wrap">
+                            <img src="assets/img/portfelio-img-3.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>Website 4 </h4>
+                                <p>Landing page</p>
+                                <div class="portfolio-links">
+                                    <a href="assets/img/portfelio-img-3.png" data-gallery="portfolioGallery"
+                                        class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+
+                                    <a href="https://surgutneftstroy.uz/" class="portfolio-details-lightbox"
+                                        data-glightbox="type: external" title="Portfolio Details"><i
+                                            class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
 
 
 
