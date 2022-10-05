@@ -66,8 +66,8 @@
                 </li>
                 <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i>
                         <span>Portfolio</span></a></li>
-                <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Xizmat
-                            ko'rsatish'</span></a>
+                <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i>
+                        <span>Xizmat ko'rsatish</span></a>
                 </li>
                 <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Aloqa</span></a>
                 </li>
@@ -86,10 +86,10 @@
             <p>Men <span class="typed" data-typed-items="Dasturchi, Dizayner, Freelancer, "></span></p>
             <div class="social-links">
                 <a href="https://t.me/Makhmudbek29" class="Telegram"><i class="fab fa-telegram-plane"></i></a>
-                <a href="https://www.instagram.com/makhmudbek.uz" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100074656518811"
-                    class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="https://twitter.com/Makhmudbek29" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="https://www.instagram.com/mahmudbek_29" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://www.facebook.com/mahmud.jumaniyazov.3" class="facebook"><i
+                        class="bx bxl-facebook"></i></a>
+                <a href="https://twitter.com/Makhmudbek_29" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="https://www.linkedin.com/in/mahmud-jumaniyazov-1b6459204/" class="linkedin"><i
                         class="bx bxl-linkedin"></i></a>
 
